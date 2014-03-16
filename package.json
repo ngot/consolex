@@ -1,0 +1,17 @@
+{
+  "name": "consolex",
+  "version": "0.0.1",
+  "description": "console extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "ngot",
+  "license": "MIT",
+  "dependencies": {
+    "console-colour": "0.0.7"
+  }
+}
